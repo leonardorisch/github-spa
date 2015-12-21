@@ -1,0 +1,15 @@
+{
+  "name": "github-spa",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "*",
+    "grunt": "^0.4.5",
+    "grunt-angular-builder": "^1.0.0-beta3",
+    "gzippo": "0.2.0",
+    "express": "3.3.5",
+    "http-server": "0.8.0",
+    "karma":"0.12.36",
+    "karma-phantomjs-launcher": "0.2.0",
+    "karma-jasmine":"0.3.5"
+  }
+}
